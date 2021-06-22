@@ -1,6 +1,9 @@
 ## Siddaq
 
-Sustainability Facilitator
+### Sustainability Facilitator
+
+![Siddaq P  Singh](https://user-images.githubusercontent.com/75035513/122885163-734fe580-d35c-11eb-9e44-b624c5acb283.JPG)
+
 
 You can use the [editor on GitHub](https://github.com/siddaq/siddaq.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
